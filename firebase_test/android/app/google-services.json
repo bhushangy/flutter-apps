@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57392234305",
+    "firebase_url": "https://fir-test-711fb.firebaseio.com",
+    "project_id": "fir-test-711fb",
+    "storage_bucket": "fir-test-711fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57392234305:android:c4a78676c24339facaabc0",
+        "android_client_info": {
+          "package_name": "com.bhushangy.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57392234305-vkqmt41q37ljg744jrgamkmh783cchpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOv6LJR8Z03_CzcnfM-eAXH8IVQUcZyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57392234305-vkqmt41q37ljg744jrgamkmh783cchpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
